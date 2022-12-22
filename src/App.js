@@ -1,7 +1,5 @@
 import { Parallax, ParallaxLayer } from '@react-spring/parallax'
 import TextBlock from './textBlock';
-import logo from './logo.svg';
-import Background from './images/background.png';
 import './App.css';
 
 function App() {

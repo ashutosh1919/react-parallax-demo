@@ -1,63 +1,3 @@
-.keyart, .keyart_layer {
-	height: 1000px;
-}
-
-.keyart {
-  display: block;
-	position: relative;
-	z-index: 10;
-}
-
-.keyart_layer {
-	background-position: bottom center;
-	background-size: auto 1038px;
-	background-repeat: repeat-x;
-	width: 100%;
-	position: absolute;
-}
-.keyart_layer.parallax {
-	position: fixed;
-}
-
-#artback {
-  background-image: url(./images/background.png);
-	background-color: #ffaf1b;
-}
-
-#logoland {
-  background-image: url(./images/logo_land.png);
-}
-
-#mountain {
-  background-image: url(./images/mountains.png);
-}
-
-#jungle1 {
-  background-image: url(./images/jungle1.png);
-}
-
-#jungle2 {
-  background-image: url(./images/jungle2.png);
-}
-
-#jungle3 {
-  background-image: url(./images/jungle3.png);
-}
-
-#jungle4 {
-  background-image: url(./images/jungle4.png);
-}
-
-#jungle5 {
-  background-image: url(./images/jungle5.png);
-}
-
-#manonmountain {
-  background-image: url(./images/man_on_mountain.png);
-}
-
-
-
 #textblock {
   background-color: #210002;
   height: 100vh;
@@ -100,4 +40,61 @@
   color: #ffaf1b;
   font-size: 15px;
   font-weight: 600;
+}
+
+.animation, .animation_layer {
+	height: 1000px;
+}
+
+.animation {
+  display: block;
+	position: relative;
+	z-index: 10;
+}
+
+.animation_layer {
+	background-position: bottom center;
+	background-size: auto 1038px;
+	background-repeat: repeat-x;
+	width: 100%;
+	position: absolute;
+}
+.animation_layer.parallax {
+	position: fixed;
+}
+
+#artback {
+  background-image: url(./images/background.png);
+}
+
+#mountain {
+  background-image: url(./images/mountains.png);
+}
+
+#logoland {
+  background-image: url(./images/logo_land.png);
+}
+
+#jungle1 {
+  background-image: url(./images/jungle1.png);
+}
+
+#jungle2 {
+  background-image: url(./images/jungle2.png);
+}
+
+#jungle3 {
+  background-image: url(./images/jungle3.png);
+}
+
+#jungle4 {
+  background-image: url(./images/jungle4.png);
+}
+
+#jungle5 {
+  background-image: url(./images/jungle5.png);
+}
+
+#manonmountain {
+  background-image: url(./images/man_on_mountain.png);
 }

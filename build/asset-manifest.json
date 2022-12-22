@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50c0d195.css",
+    "main.js": "/static/js/main.9855199b.js",
+    "static/js/787.fcea0ce9.chunk.js": "/static/js/787.fcea0ce9.chunk.js",
+    "static/media/jungle1.png": "/static/media/jungle1.5ec83d96505269c854f3.png",
+    "static/media/background.png": "/static/media/background.f8e0a3e86fb4252623af.png",
+    "static/media/jungle3.png": "/static/media/jungle3.5350abbda455914478ee.png",
+    "static/media/mountains.png": "/static/media/mountains.af6b8801f09352cf3f76.png",
+    "static/media/man_on_mountain.png": "/static/media/man_on_mountain.41b59d37a39bb0b35f75.png",
+    "static/media/jungle4.png": "/static/media/jungle4.80488612344ed2683ee6.png",
+    "static/media/jungle2.png": "/static/media/jungle2.b3f7031947988987d357.png",
+    "static/media/logo_land.png": "/static/media/logo_land.38bc453f18c7f64bebdc.png",
+    "static/media/jungle5.png": "/static/media/jungle5.6f841a2d5b2b021093df.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.50c0d195.css.map": "/static/css/main.50c0d195.css.map",
+    "main.9855199b.js.map": "/static/js/main.9855199b.js.map",
+    "787.fcea0ce9.chunk.js.map": "/static/js/787.fcea0ce9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50c0d195.css",
+    "static/js/main.9855199b.js"
+  ]
+}

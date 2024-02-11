@@ -14,8 +14,8 @@ Follow these steps to set up the PDF Merger Web App on your local machine:
 #### Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/pdf-merger-web-app.git
-cd pdf-merger-web-app
+git clone https://github.com/ashutosh1919/react-parallax-demo.git
+cd react-parallax-demo
 ```
 
 Install Dependencies:
